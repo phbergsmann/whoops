@@ -1,0 +1,3 @@
+[submodule "Vendor/Whoops"]
+	path = Vendor/Whoops
+	url = git://github.com/filp/whoops.git
